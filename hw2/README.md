@@ -1,2 +1,2 @@
-### TEST CASES are in main.scala:
-please refere to the variable **testcases** in main function	
+### TEST CASES are in test.scala:
+please refer to  main function	
